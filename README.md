@@ -1,2 +1,2 @@
 # sticker-api
-Uma API que transforma imagens em figurinhas de Whatsapp
+Uma API que transforma imagens em figurinhas de Whatsapp e Telegram
